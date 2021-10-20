@@ -40,3 +40,10 @@ body {
 #post {
     padding: 1em;
 }
+
+#footer {
+    background-color: green;
+    color: white;
+    text-align: center;
+    padding: .5em;
+}
