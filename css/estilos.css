@@ -1,4 +1,5 @@
 body {
+    background-color: #1e1f24;
     color: #333;
     text-align: center;
     font-family: "Arial";
@@ -11,7 +12,7 @@ body {
     width: 70%;
     padding: 1rem;
     text-align: left;
-    border: 1px solid #000;
+    border: 1px solid #33A;
     margin: 0 auto;
 }
 
@@ -37,6 +38,12 @@ body {
     font-size: 0.8em;
 }
 
+#cabecera #logo {
+    width: 20px;
+    vertical-align: middle;
+}
+
 #post {
+    background-color: white;
     padding: 1em;
 }
